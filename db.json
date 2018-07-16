@@ -1,6 +1,10 @@
 {  
-  "Consumptions": [
+  	"Consumptions": [
 	{"id": "0", "contract": "9845", "oldVolume": "220", "oldAmount": "340.30", "newVolume": "200", "newAmount": "299.00", "month": "Juin"},
 	{"id": "1", "contract": "9877", "oldVolume": "90", "oldAmount": "110.30", "newVolume": "200", "newAmount": "299.00", "month": "Juin"}
+	],
+	"MinMaxConsumption": [
+	{"id": "0", "contract": "9845", "min": "105", "max": "236"},
+	{"id": "1", "contract": "9877", "min": "66", "max": "139"}
 	]
 } 
