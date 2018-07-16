@@ -1,0 +1,10 @@
+{  
+  "NewConsumption": [
+	{"id": "0", "contract": "9845", "volume": "220", "amount": "340.30", "month": "Juin"},
+	{"id": "1", "contract": "9877", "volume": "90", "amount": "110.30", "month": "Juin"}
+	],
+	"OldConsumption": [
+	{"id": "0", "contract": "9845", "volume": "133", "amount": "210.20", "month": "Juin"},
+	{"id": "1", "contract": "9877", "volume": "199", "amount": "288.77", "month": "Juin"}
+	]
+} 
