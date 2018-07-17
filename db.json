@@ -1,7 +1,8 @@
 {  
   	"Consumptions": [
-	{"id": "0", "contract": "9845", "oldVolume": "220", "oldAmount": "340.30", "newVolume": "200", "newAmount": "299.00", "month": "Juin"},
-	{"id": "1", "contract": "9877", "oldVolume": "90", "oldAmount": "110.30", "newVolume": "200", "newAmount": "299.00", "month": "Juin"}
+	{"id": "0", "volume": "220", "amount": "299.00", "month": "Juin", "index": "345677", "date": "29-06-2018"},
+	{"id": "1", "volume": "199", "amount": "237.50", "month": "Mai", "index": "345660", "date": "29-05-2018"},
+	{"id": "2", "volume": "231", "amount": "304.00", "month": "Avril", "index": "345643", "date": "29-04-2018"},
 	],
 	"MinMaxConsumption": [
 	{"id": "0", "contract": "9845", "min": "105", "max": "236"},
