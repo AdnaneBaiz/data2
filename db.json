@@ -10,5 +10,8 @@
 	"MinMaxConsumption": [
 	{"id": "0", "contract": "9845", "min": "105", "max": "236"},
 	{"id": "1", "contract": "9877", "min": "66", "max": "139"}
+	],
+	"Meter": [
+	{"id": "0", "voltage": "220", "amperage": "12", "calibre": "2.5", "coefficient": "3.45", "marque": "Aquarius", "roues": "2"}
 	]
 } 
