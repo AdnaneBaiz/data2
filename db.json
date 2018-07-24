@@ -13,7 +13,7 @@
 	],
 	"Meter": [
 	{"id": "0", "voltage": "220", "amperage": "12", "calibre": "2.5", "coefficient": "3.45", "marque": "Aquarius", "roues": "2"}
-	]
+	],
 	"Users": [
 	{"id": "0", "fullName": "Younes Hassani", "email": "younes.h@hotmail.com", "bill": "12345", "contract": "12345", "ref": "12345" }
 	]
