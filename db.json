@@ -16,5 +16,9 @@
 	],
 	"Users": [
 	{"id": "0", "fullName": "Younes Hassani", "email": "younes.h@hotmail.com", "bill": "12345", "contract": "12345", "ref": "12345" }
+	],
+	"Questions": [
+	{"id": "0", "question": "L'index de la dernière facture ?", "answer": "12345"},
+	{"id": "1", "question": "La référence de la dernière facture ?", "answer": "12345"}	
 	]
 } 
