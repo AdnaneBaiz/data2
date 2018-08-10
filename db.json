@@ -15,7 +15,7 @@
 	{"id": "0", "voltage": "220", "amperage": "12", "calibre": "2.5", "coefficient": "3.45", "marque": "Aquarius", "roues": "2"}
 	],
 	"Users": [
-	{"id": "0", "fullName": "Younes Hassani", "email": "younes.h@hotmail.com", "bill": "E12345", "contract": "E12345", "ref": "12345" },
+	{"id": "0", "firstName": "Younes", "lastName": "Hassani", "fullName": "Younes Hassani", "email": "younes.h@hotmail.com", "bill": "E12345", "contract": "E12345", "ref": "12345" },
 	{"id": "1", "fullName": "Moncef Fikri", "email": "moncef.f@hotmail.com", "bill": "E37488", "contract": "E37488", "ref": "12345" },
 	{"id": "2", "fullName": "Oussama Nafid", "email": "oussame.n@hotmail.com", "bill": "E57486", "contract": "E57486", "ref": "12345" }
 	],
