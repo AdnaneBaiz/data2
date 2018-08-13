@@ -16,8 +16,8 @@
 	],
 	"Users": [
 	{"id": "0", "firstName": "Younes", "lastName": "Hassani", "fullName": "Younes Hassani", "email": "younes.h@hotmail.com", "bill": "E12345", "contract": "E12345", "ref": "12345" },
-	{"id": "1", "fullName": "Moncef Fikri", "email": "moncef.f@hotmail.com", "bill": "E37488", "contract": "E37488", "ref": "12345" },
-	{"id": "2", "fullName": "Oussama Nafid", "email": "oussame.n@hotmail.com", "bill": "E57486", "contract": "E57486", "ref": "12345" }
+	{"id": "1", "firstName": "Moncef", "lastName": "Fikri", "fullName": "Moncef Fikri", "email": "moncef.f@hotmail.com", "bill": "E37488", "contract": "E37488", "ref": "12345" },
+	{"id": "2", "firstName": "Oussama", "lastName": "Nafid", "fullName": "Oussama Nafid", "email": "oussame.n@hotmail.com", "bill": "E57486", "contract": "E57486", "ref": "12345" }
 	],
 	"Questions": [
 	{"id": "0", "question": "L'index de la dernière facture ?", "answer": "12345"},
